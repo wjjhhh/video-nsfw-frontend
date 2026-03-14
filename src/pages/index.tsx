@@ -13,7 +13,7 @@ if (typeof window !== 'undefined') {
   });
 }
 
-const API_BASE_URL = typeof window !== 'undefined' && window.location.hostname === 'localhost' ? 'http://localhost:3001' : '';
+const API_BASE_URL = 'http://localhost:3001';
 
 // Format seconds to HH:MM:SS
 const formatTime = (seconds: number): string => {

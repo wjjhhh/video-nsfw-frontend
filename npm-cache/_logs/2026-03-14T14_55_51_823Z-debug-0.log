@@ -1,0 +1,70 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.8.0
+2 info using node@v24.13.1
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/user/Documents/trae_projects/video_ NSFW/frontend-project/.npmrc
+5 silly config load:file:/Users/user/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" "./npm-cache"
+9 verbose logfile logs-max:10 dir:/Users/user/Documents/trae_projects/video_ NSFW/frontend-project/npm-cache/_logs/2026-03-14T14_55_51_823Z-
+10 verbose logfile /Users/user/Documents/trae_projects/video_ NSFW/frontend-project/npm-cache/_logs/2026-03-14T14_55_51_823Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+13 silly idealTree buildDeps
+14 silly fetch manifest flv.js@1.6.2
+15 silly packumentCache full:https://registry.npmmirror.com/flv.js cache-miss
+16 http fetch GET 200 https://registry.npmmirror.com/npm 1400ms
+17 http fetch GET 200 https://registry.npmmirror.com/flv.js 1217ms (cache miss)
+18 silly packumentCache full:https://registry.npmmirror.com/flv.js set size:7669 disposed:false
+19 silly fetch manifest next@15.1.11
+20 silly packumentCache full:https://registry.npmmirror.com/next cache-miss
+21 http fetch GET 200 https://registry.npmmirror.com/next 2539ms (cache miss)
+22 silly packumentCache full:https://registry.npmmirror.com/next set size:3208654 disposed:false
+23 silly fetch manifest @opentelemetry/api@^1.1.0
+24 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi cache-miss
+25 http fetch GET 200 https://registry.npmmirror.com/@opentelemetry%2fapi 264ms (cache miss)
+26 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi set size:33883 disposed:false
+27 silly fetch manifest @playwright/test@^1.41.2
+28 silly packumentCache full:https://registry.npmmirror.com/@playwright%2ftest cache-miss
+29 http fetch GET 200 https://registry.npmmirror.com/@playwright%2ftest 701ms (cache miss)
+30 silly packumentCache full:https://registry.npmmirror.com/@playwright%2ftest set size:1664004 disposed:false
+31 silly fetch manifest babel-plugin-react-compiler@*
+32 silly packumentCache full:https://registry.npmmirror.com/babel-plugin-react-compiler cache-miss
+33 http fetch GET 200 https://registry.npmmirror.com/babel-plugin-react-compiler 97ms (cache miss)
+34 silly packumentCache full:https://registry.npmmirror.com/babel-plugin-react-compiler set size:162616 disposed:false
+35 silly fetch manifest react@19.2.4
+36 silly packumentCache full:https://registry.npmmirror.com/react cache-miss
+37 http fetch GET 200 https://registry.npmmirror.com/react 702ms (cache miss)
+38 silly packumentCache full:https://registry.npmmirror.com/react set size:1193678 disposed:false
+39 silly fetch manifest react-dom@19.2.4
+40 silly packumentCache full:https://registry.npmmirror.com/react-dom cache-miss
+41 http fetch GET 200 https://registry.npmmirror.com/react-dom 795ms (cache miss)
+42 silly packumentCache full:https://registry.npmmirror.com/react-dom set size:1357448 disposed:false
+43 silly fetch manifest sass@^1.3.0
+44 silly packumentCache full:https://registry.npmmirror.com/sass cache-miss
+45 http fetch GET 200 https://registry.npmmirror.com/sass 105ms (cache miss)
+46 silly packumentCache full:https://registry.npmmirror.com/sass set size:125288 disposed:false
+47 silly fetch manifest @types/node@22.19.15
+48 silly packumentCache full:https://registry.npmmirror.com/@types%2fnode cache-miss
+49 http fetch GET 200 https://registry.npmmirror.com/@types%2fnode 1886ms (cache miss)
+50 silly packumentCache full:https://registry.npmmirror.com/@types%2fnode set size:1147467 disposed:false
+51 silly fetch manifest @types/react@19.2.14
+52 silly packumentCache full:https://registry.npmmirror.com/@types%2freact cache-miss
+53 http fetch GET 200 https://registry.npmmirror.com/@types%2freact 296ms (cache miss)
+54 silly packumentCache full:https://registry.npmmirror.com/@types%2freact set size:331315 disposed:false
+55 silly fetch manifest @types/react-dom@19.2.3
+56 silly packumentCache full:https://registry.npmmirror.com/@types%2freact-dom cache-miss
+57 http fetch GET 200 https://registry.npmmirror.com/@types%2freact-dom 223ms (cache miss)
+58 silly packumentCache full:https://registry.npmmirror.com/@types%2freact-dom set size:82926 disposed:false
+59 silly fetch manifest eslint@9.39.3
+60 silly packumentCache full:https://registry.npmmirror.com/eslint cache-miss
+61 http fetch GET 200 https://registry.npmmirror.com/eslint 931ms (cache miss)
+62 silly packumentCache full:https://registry.npmmirror.com/eslint set size:220464 disposed:false
+63 silly fetch manifest jiti@*
+64 silly packumentCache full:https://registry.npmmirror.com/jiti cache-miss
+65 http fetch GET 200 https://registry.npmmirror.com/jiti 283ms (cache miss)
+66 silly packumentCache full:https://registry.npmmirror.com/jiti set size:60368 disposed:false
+67 silly fetch manifest eslint-config-next@15.1.0
+68 silly packumentCache full:https://registry.npmmirror.com/eslint-config-next cache-miss
+69 http fetch GET 200 https://registry.npmmirror.com/eslint-config-next 1665ms (cache miss)
